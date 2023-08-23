@@ -4,6 +4,10 @@ This Flutter app calculates BMI (Body Mass Index) based on user input for height
 
 This app was created for the assignment given by the GDSC-AITR team.
 
+## Screenshots
+
+https://github.com/mukundsolanki/BMI-calculator-gdsc/assets/114515612/aab80a3c-1376-4020-84ec-8be317bba2db
+
 ## Getting Started
 
 These instructions will help you set up and run the BMI Calculator app on your local machine.
